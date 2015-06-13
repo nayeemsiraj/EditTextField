@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EditTextField</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_title">Show Name from Edit Text</string>
+    <string name="edit_hint1">Enter First Name</string>
+    <string name="edit_hint2">Enter Middle Name</string>
+    <string name="edit_hint3">Enter Last Name</string>
+    <string name="text_title1">First Name is :</string>
+    <string name="text_title2">Middle Name is :</string>
+    <string name="text_title3">Last Name is :</string>
+</resources>
